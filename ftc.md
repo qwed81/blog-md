@@ -1,4 +1,4 @@
-### FTC
+# FTC
 
 ## Introduction
 I have been a League of Legends player for years, and a few years ago I came across a program
